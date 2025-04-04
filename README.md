@@ -1,11 +1,6 @@
-# Customer Segmentation Insights and Analysis
+# Grocery Analysis Using Association Rule Mining
+This project uses apriori algorithm for association rule
 
-This project focuses on segmenting customers based on their personal information, spending patterns and feedback(complaints) which will be helpful for targeted advertising.
-
-## Features
-- Data preprocessing - EDA
-- Clustering algorithms (K-Means.)
-- Insights and visualization
 
 ## How to Run
 1. Clone this repository.
